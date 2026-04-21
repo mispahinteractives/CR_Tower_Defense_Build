@@ -1,0 +1,540 @@
+{"frames": [
+
+{
+	"filename": "Archer/01",
+	"frame": {"x":760,"y":350,"w":171,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":142},
+	"sourceSize": {"w":171,"h":142}
+},
+{
+	"filename": "Archer/02",
+	"frame": {"x":753,"y":205,"w":181,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":142},
+	"sourceSize": {"w":181,"h":142}
+},
+{
+	"filename": "Archer/03",
+	"frame": {"x":271,"y":1094,"w":183,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":135},
+	"sourceSize": {"w":183,"h":135}
+},
+{
+	"filename": "Archer/Arrow",
+	"frame": {"x":984,"y":2,"w":22,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":91},
+	"sourceSize": {"w":22,"h":91}
+},
+{
+	"filename": "Archer/B ase",
+	"frame": {"x":461,"y":1031,"w":137,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":126},
+	"sourceSize": {"w":137,"h":126}
+},
+{
+	"filename": "Archer/Layer 73",
+	"frame": {"x":937,"y":205,"w":74,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":82},
+	"sourceSize": {"w":74,"h":82}
+},
+{
+	"filename": "Archer/Layer 74",
+	"frame": {"x":537,"y":1222,"w":93,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":63},
+	"sourceSize": {"w":93,"h":63}
+},
+{
+	"filename": "Archer/Red_Banner",
+	"frame": {"x":904,"y":771,"w":112,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":112,"h":75},
+	"sourceSize": {"w":117,"h":75}
+},
+{
+	"filename": "Archer/String",
+	"frame": {"x":457,"y":1213,"w":143,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":6},
+	"sourceSize": {"w":143,"h":6}
+},
+{
+	"filename": "Background/Tower",
+	"frame": {"x":245,"y":863,"w":213,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":228},
+	"sourceSize": {"w":213,"h":228}
+},
+{
+	"filename": "Cannon/01",
+	"frame": {"x":601,"y":1011,"w":127,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":127,"h":146},
+	"sourceSize": {"w":141,"h":151}
+},
+{
+	"filename": "Cannon/02",
+	"frame": {"x":598,"y":861,"w":134,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":134,"h":147},
+	"sourceSize": {"w":144,"h":203}
+},
+{
+	"filename": "Cannon/03",
+	"frame": {"x":776,"y":738,"w":125,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":140},
+	"sourceSize": {"w":125,"h":140}
+},
+{
+	"filename": "Cannon/Black_Banner",
+	"frame": {"x":908,"y":599,"w":108,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":71},
+	"sourceSize": {"w":108,"h":71}
+},
+{
+	"filename": "Cannon/Cannon balls",
+	"frame": {"x":937,"y":290,"w":68,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":68},
+	"sourceSize": {"w":68,"h":68}
+},
+{
+	"filename": "Cannon/Cannonball",
+	"frame": {"x":962,"y":560,"w":36,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+	"sourceSize": {"w":36,"h":36}
+},
+{
+	"filename": "Cannon/Fire Drum",
+	"frame": {"x":731,"y":1032,"w":99,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":101},
+	"sourceSize": {"w":99,"h":101}
+},
+{
+	"filename": "Cannon/Layer 37 copy",
+	"frame": {"x":763,"y":599,"w":142,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":136},
+	"sourceSize": {"w":142,"h":136}
+},
+{
+	"filename": "Card die/1",
+	"frame": {"x":855,"y":1258,"w":50,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":58},
+	"sourceSize": {"w":50,"h":58}
+},
+{
+	"filename": "Card die/2",
+	"frame": {"x":462,"y":610,"w":51,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
+},
+{
+	"filename": "Card die/3",
+	"frame": {"x":453,"y":364,"w":45,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":29},
+	"sourceSize": {"w":45,"h":29}
+},
+{
+	"filename": "Card die/Soul",
+	"frame": {"x":872,"y":979,"w":22,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":50},
+	"sourceSize": {"w":22,"h":50}
+},
+{
+	"filename": "confetti/Confetti particle_1",
+	"frame": {"x":733,"y":350,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+	"sourceSize": {"w":24,"h":28}
+},
+{
+	"filename": "confetti/Confetti particle_2",
+	"frame": {"x":908,"y":1258,"w":50,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":47},
+	"sourceSize": {"w":50,"h":47}
+},
+{
+	"filename": "confetti/Confetti particle_3",
+	"frame": {"x":731,"y":1136,"w":15,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":12},
+	"sourceSize": {"w":15,"h":12}
+},
+{
+	"filename": "confetti/Confetti particle_4",
+	"frame": {"x":516,"y":610,"w":22,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":30},
+	"sourceSize": {"w":22,"h":30}
+},
+{
+	"filename": "confetti/Confetti particle_5",
+	"frame": {"x":735,"y":861,"w":20,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
+	"sourceSize": {"w":20,"h":13}
+},
+{
+	"filename": "confetti/Confetti particle_6",
+	"frame": {"x":758,"y":861,"w":15,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":13},
+	"sourceSize": {"w":15,"h":13}
+},
+{
+	"filename": "confetti/Confetti particle_7",
+	"frame": {"x":537,"y":1288,"w":48,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":38},
+	"sourceSize": {"w":48,"h":38}
+},
+{
+	"filename": "Effects/Archer range",
+	"frame": {"x":765,"y":1258,"w":87,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":55},
+	"sourceSize": {"w":87,"h":55}
+},
+{
+	"filename": "Effects/Banner effect",
+	"frame": {"x":897,"y":901,"w":113,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":74},
+	"sourceSize": {"w":113,"h":74}
+},
+{
+	"filename": "Effects/Cannon Impact",
+	"frame": {"x":633,"y":1258,"w":129,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":62},
+	"sourceSize": {"w":129,"h":62}
+},
+{
+	"filename": "Effects/Cannon Range",
+	"frame": {"x":2,"y":1218,"w":180,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":113},
+	"sourceSize": {"w":180,"h":113}
+},
+{
+	"filename": "Effects/Group 1",
+	"frame": {"x":509,"y":101,"w":241,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":241,"h":244},
+	"sourceSize": {"w":243,"h":245}
+},
+{
+	"filename": "favicon",
+	"frame": {"x":606,"y":610,"w":154,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":154},
+	"sourceSize": {"w":154,"h":154}
+},
+{
+	"filename": "Hand",
+	"frame": {"x":461,"y":863,"w":134,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":7,"w":134,"h":165},
+	"sourceSize": {"w":144,"h":172}
+},
+{
+	"filename": "info",
+	"frame": {"x":2,"y":863,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+{
+	"filename": "logo_ec",
+	"frame": {"x":2,"y":101,"w":504,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":260},
+	"sourceSize": {"w":504,"h":260}
+},
+{
+	"filename": "Play now",
+	"frame": {"x":2,"y":364,"w":448,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":448,"h":195},
+	"sourceSize": {"w":448,"h":195}
+},
+{
+	"filename": "Progress bar/gold border",
+	"frame": {"x":833,"y":1032,"w":25,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":104},
+	"sourceSize": {"w":25,"h":104}
+},
+{
+	"filename": "Progress bar/Green Fill",
+	"frame": {"x":882,"y":1032,"w":19,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":93},
+	"sourceSize": {"w":19,"h":93}
+},
+{
+	"filename": "Progress bar/Heart 1 copy 2",
+	"frame": {"x":961,"y":1258,"w":27,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":24},
+	"sourceSize": {"w":27,"h":24}
+},
+{
+	"filename": "Progress bar/purple base",
+	"frame": {"x":861,"y":1032,"w":18,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":94},
+	"sourceSize": {"w":18,"h":94}
+},
+{
+	"filename": "Progress bar/red Fill",
+	"frame": {"x":962,"y":465,"w":18,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":92},
+	"sourceSize": {"w":18,"h":92}
+},
+{
+	"filename": "Solitaire Logo",
+	"frame": {"x":596,"y":767,"w":177,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":91},
+	"sourceSize": {"w":177,"h":91}
+},
+{
+	"filename": "talon_base",
+	"frame": {"x":2,"y":1106,"w":266,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":109},
+	"sourceSize": {"w":266,"h":109}
+},
+{
+	"filename": "Text- Can you/1",
+	"frame": {"x":735,"y":979,"w":134,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":50},
+	"sourceSize": {"w":134,"h":50}
+},
+{
+	"filename": "Text- Can you/2",
+	"frame": {"x":934,"y":361,"w":82,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":49},
+	"sourceSize": {"w":82,"h":49}
+},
+{
+	"filename": "Text- Can you/3",
+	"frame": {"x":934,"y":413,"w":81,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":49},
+	"sourceSize": {"w":81,"h":49}
+},
+{
+	"filename": "Text- Can you/4",
+	"frame": {"x":904,"y":849,"w":99,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":49},
+	"sourceSize": {"w":99,"h":49}
+},
+{
+	"filename": "Text- Can you/5",
+	"frame": {"x":457,"y":1160,"w":177,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":50},
+	"sourceSize": {"w":177,"h":50}
+},
+{
+	"filename": "Text- Can you/6",
+	"frame": {"x":509,"y":348,"w":221,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":50},
+	"sourceSize": {"w":221,"h":50}
+},
+{
+	"filename": "Text-Help/1",
+	"frame": {"x":760,"y":495,"w":199,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":199,"h":101},
+	"sourceSize": {"w":200,"h":104}
+},
+{
+	"filename": "Text-Help/2",
+	"frame": {"x":770,"y":2,"w":211,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":211,"h":101},
+	"sourceSize": {"w":212,"h":105}
+},
+{
+	"filename": "Text-Help/3",
+	"frame": {"x":453,"y":401,"w":304,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":304,"h":102},
+	"sourceSize": {"w":304,"h":105}
+},
+{
+	"filename": "Text-Help/4",
+	"frame": {"x":462,"y":506,"w":293,"h":101},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":293,"h":101},
+	"sourceSize": {"w":294,"h":105}
+},
+{
+	"filename": "Text-Help/5",
+	"frame": {"x":434,"y":760,"w":159,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":159,"h":100},
+	"sourceSize": {"w":159,"h":102}
+},
+{
+	"filename": "Text-Help/6",
+	"frame": {"x":2,"y":760,"w":429,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":429,"h":100},
+	"sourceSize": {"w":430,"h":101}
+},
+{
+	"filename": "Text-The Kingdom is under attack/Attack",
+	"frame": {"x":185,"y":1232,"w":349,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":349,"h":96},
+	"sourceSize": {"w":349,"h":98}
+},
+{
+	"filename": "Text-The Kingdom is under attack/is",
+	"frame": {"x":908,"y":673,"w":103,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":103,"h":95},
+	"sourceSize": {"w":104,"h":99}
+},
+{
+	"filename": "Text-The Kingdom is under attack/kingdom",
+	"frame": {"x":637,"y":1160,"w":379,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":379,"h":95},
+	"sourceSize": {"w":379,"h":99}
+},
+{
+	"filename": "Text-The Kingdom is under attack/The",
+	"frame": {"x":735,"y":881,"w":159,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":159,"h":95},
+	"sourceSize": {"w":159,"h":98}
+},
+{
+	"filename": "Text-The Kingdom is under attack/under",
+	"frame": {"x":753,"y":106,"w":256,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":256,"h":96},
+	"sourceSize": {"w":256,"h":98}
+},
+{
+	"filename": "Text/CONGRATS",
+	"frame": {"x":2,"y":562,"w":457,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":457,"h":96},
+	"sourceSize": {"w":459,"h":99}
+},
+{
+	"filename": "Text/OUT OF MOVES!!",
+	"frame": {"x":2,"y":661,"w":601,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":601,"h":96},
+	"sourceSize": {"w":601,"h":100}
+},
+{
+	"filename": "Text/TOWER DESTROYED!!",
+	"frame": {"x":2,"y":2,"w":765,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":765,"h":96},
+	"sourceSize": {"w":766,"h":100}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1018,"h":1333},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ae98732697527a6a1adb85a84a9a0c6d:ce411bfb200a95810f054eebb1d0810a:9c44ecd7e9a522007eaff2949095bc1d$"
+}
+}
