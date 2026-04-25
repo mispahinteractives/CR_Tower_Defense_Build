@@ -2,7 +2,7 @@
 
 {
 	"filename": "Archer/01",
-	"frame": {"x":760,"y":350,"w":171,"h":142},
+	"frame": {"x":606,"y":661,"w":171,"h":142},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":142},
@@ -17,14 +17,6 @@
 	"sourceSize": {"w":181,"h":142}
 },
 {
-	"filename": "Archer/03",
-	"frame": {"x":271,"y":1094,"w":183,"h":135},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":135},
-	"sourceSize": {"w":183,"h":135}
-},
-{
 	"filename": "Archer/Arrow",
 	"frame": {"x":984,"y":2,"w":22,"h":91},
 	"rotated": false,
@@ -34,7 +26,7 @@
 },
 {
 	"filename": "Archer/B ase",
-	"frame": {"x":461,"y":1031,"w":137,"h":126},
+	"frame": {"x":760,"y":444,"w":137,"h":126},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":126},
@@ -50,7 +42,7 @@
 },
 {
 	"filename": "Archer/Layer 74",
-	"frame": {"x":537,"y":1222,"w":93,"h":63},
+	"frame": {"x":917,"y":642,"w":93,"h":63},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":63},
@@ -58,7 +50,7 @@
 },
 {
 	"filename": "Archer/Red_Banner",
-	"frame": {"x":904,"y":771,"w":112,"h":75},
+	"frame": {"x":891,"y":361,"w":112,"h":75},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":0,"w":112,"h":75},
@@ -66,7 +58,7 @@
 },
 {
 	"filename": "Archer/String",
-	"frame": {"x":457,"y":1213,"w":143,"h":6},
+	"frame": {"x":755,"y":945,"w":143,"h":6},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":6},
@@ -82,7 +74,7 @@
 },
 {
 	"filename": "Cannon/01",
-	"frame": {"x":601,"y":1011,"w":127,"h":146},
+	"frame": {"x":843,"y":1062,"w":127,"h":146},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":10,"y":0,"w":127,"h":146},
@@ -90,23 +82,15 @@
 },
 {
 	"filename": "Cannon/02",
-	"frame": {"x":598,"y":861,"w":134,"h":147},
+	"frame": {"x":780,"y":638,"w":134,"h":147},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":9,"w":134,"h":147},
 	"sourceSize": {"w":144,"h":203}
 },
 {
-	"filename": "Cannon/03",
-	"frame": {"x":776,"y":738,"w":125,"h":140},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":140},
-	"sourceSize": {"w":125,"h":140}
-},
-{
 	"filename": "Cannon/Black_Banner",
-	"frame": {"x":908,"y":599,"w":108,"h":71},
+	"frame": {"x":900,"y":516,"w":108,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":71},
@@ -122,7 +106,7 @@
 },
 {
 	"filename": "Cannon/Cannonball",
-	"frame": {"x":962,"y":560,"w":36,"h":36},
+	"frame": {"x":901,"y":920,"w":36,"h":36},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
@@ -130,7 +114,7 @@
 },
 {
 	"filename": "Cannon/Fire Drum",
-	"frame": {"x":731,"y":1032,"w":99,"h":101},
+	"frame": {"x":722,"y":1160,"w":99,"h":101},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":101},
@@ -138,7 +122,7 @@
 },
 {
 	"filename": "Cannon/Layer 37 copy",
-	"frame": {"x":763,"y":599,"w":142,"h":136},
+	"frame": {"x":755,"y":806,"w":142,"h":136},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":136},
@@ -146,7 +130,7 @@
 },
 {
 	"filename": "Card die/1",
-	"frame": {"x":855,"y":1258,"w":50,"h":58},
+	"frame": {"x":453,"y":364,"w":50,"h":58},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":58},
@@ -154,7 +138,7 @@
 },
 {
 	"filename": "Card die/2",
-	"frame": {"x":462,"y":610,"w":51,"h":47},
+	"frame": {"x":900,"y":870,"w":51,"h":47},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
@@ -162,7 +146,7 @@
 },
 {
 	"filename": "Card die/3",
-	"frame": {"x":453,"y":364,"w":45,"h":29},
+	"frame": {"x":406,"y":1210,"w":45,"h":29},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":29},
@@ -170,7 +154,7 @@
 },
 {
 	"filename": "Card die/Soul",
-	"frame": {"x":872,"y":979,"w":22,"h":50},
+	"frame": {"x":994,"y":1016,"w":22,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":50},
@@ -178,7 +162,7 @@
 },
 {
 	"filename": "confetti/Confetti particle_1",
-	"frame": {"x":733,"y":350,"w":24,"h":28},
+	"frame": {"x":461,"y":1031,"w":24,"h":28},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
@@ -186,7 +170,7 @@
 },
 {
 	"filename": "confetti/Confetti particle_2",
-	"frame": {"x":908,"y":1258,"w":50,"h":47},
+	"frame": {"x":954,"y":870,"w":50,"h":47},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":47},
@@ -194,7 +178,7 @@
 },
 {
 	"filename": "confetti/Confetti particle_3",
-	"frame": {"x":731,"y":1136,"w":15,"h":12},
+	"frame": {"x":824,"y":1160,"w":15,"h":12},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":12},
@@ -202,7 +186,7 @@
 },
 {
 	"filename": "confetti/Confetti particle_4",
-	"frame": {"x":516,"y":610,"w":22,"h":30},
+	"frame": {"x":994,"y":1069,"w":22,"h":30},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":30},
@@ -210,7 +194,7 @@
 },
 {
 	"filename": "confetti/Confetti particle_5",
-	"frame": {"x":735,"y":861,"w":20,"h":13},
+	"frame": {"x":950,"y":1027,"w":20,"h":13},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":13},
@@ -218,7 +202,7 @@
 },
 {
 	"filename": "confetti/Confetti particle_6",
-	"frame": {"x":758,"y":861,"w":15,"h":13},
+	"frame": {"x":758,"y":638,"w":15,"h":13},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":13},
@@ -226,7 +210,7 @@
 },
 {
 	"filename": "confetti/Confetti particle_7",
-	"frame": {"x":537,"y":1288,"w":48,"h":38},
+	"frame": {"x":961,"y":1219,"w":48,"h":38},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":38},
@@ -234,7 +218,7 @@
 },
 {
 	"filename": "Effects/Archer range",
-	"frame": {"x":765,"y":1258,"w":87,"h":55},
+	"frame": {"x":917,"y":708,"w":87,"h":55},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":55},
@@ -242,7 +226,7 @@
 },
 {
 	"filename": "Effects/Banner effect",
-	"frame": {"x":897,"y":901,"w":113,"h":74},
+	"frame": {"x":900,"y":439,"w":113,"h":74},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":74},
@@ -250,7 +234,7 @@
 },
 {
 	"filename": "Effects/Cannon Impact",
-	"frame": {"x":633,"y":1258,"w":129,"h":62},
+	"frame": {"x":758,"y":573,"w":129,"h":62},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":62},
@@ -258,7 +242,7 @@
 },
 {
 	"filename": "Effects/Cannon Range",
-	"frame": {"x":2,"y":1218,"w":180,"h":113},
+	"frame": {"x":271,"y":1094,"w":180,"h":113},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":113},
@@ -274,7 +258,7 @@
 },
 {
 	"filename": "favicon",
-	"frame": {"x":606,"y":610,"w":154,"h":154},
+	"frame": {"x":598,"y":806,"w":154,"h":154},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":154},
@@ -314,7 +298,7 @@
 },
 {
 	"filename": "Progress bar/gold border",
-	"frame": {"x":833,"y":1032,"w":25,"h":104},
+	"frame": {"x":950,"y":920,"w":25,"h":104},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":104},
@@ -322,7 +306,7 @@
 },
 {
 	"filename": "Progress bar/Green Fill",
-	"frame": {"x":882,"y":1032,"w":19,"h":93},
+	"frame": {"x":978,"y":920,"w":19,"h":93},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":93},
@@ -330,7 +314,7 @@
 },
 {
 	"filename": "Progress bar/Heart 1 copy 2",
-	"frame": {"x":961,"y":1258,"w":27,"h":24},
+	"frame": {"x":453,"y":425,"w":27,"h":24},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":24},
@@ -338,7 +322,7 @@
 },
 {
 	"filename": "Progress bar/purple base",
-	"frame": {"x":861,"y":1032,"w":18,"h":94},
+	"frame": {"x":973,"y":1027,"w":18,"h":94},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":94},
@@ -346,7 +330,7 @@
 },
 {
 	"filename": "Progress bar/red Fill",
-	"frame": {"x":962,"y":465,"w":18,"h":92},
+	"frame": {"x":973,"y":1124,"w":18,"h":92},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":92},
@@ -354,7 +338,7 @@
 },
 {
 	"filename": "Solitaire Logo",
-	"frame": {"x":596,"y":767,"w":177,"h":91},
+	"frame": {"x":711,"y":350,"w":177,"h":91},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":91},
@@ -370,7 +354,7 @@
 },
 {
 	"filename": "Text- Can you/1",
-	"frame": {"x":735,"y":979,"w":134,"h":50},
+	"frame": {"x":824,"y":1211,"w":134,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":50},
@@ -378,7 +362,7 @@
 },
 {
 	"filename": "Text- Can you/2",
-	"frame": {"x":934,"y":361,"w":82,"h":49},
+	"frame": {"x":917,"y":766,"w":82,"h":49},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":49},
@@ -386,7 +370,7 @@
 },
 {
 	"filename": "Text- Can you/3",
-	"frame": {"x":934,"y":413,"w":81,"h":49},
+	"frame": {"x":900,"y":818,"w":81,"h":49},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":49},
@@ -394,7 +378,7 @@
 },
 {
 	"filename": "Text- Can you/4",
-	"frame": {"x":904,"y":849,"w":99,"h":49},
+	"frame": {"x":917,"y":590,"w":99,"h":49},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":49},
@@ -402,7 +386,7 @@
 },
 {
 	"filename": "Text- Can you/5",
-	"frame": {"x":457,"y":1160,"w":177,"h":50},
+	"frame": {"x":226,"y":1218,"w":177,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":50},
@@ -410,7 +394,7 @@
 },
 {
 	"filename": "Text- Can you/6",
-	"frame": {"x":509,"y":348,"w":221,"h":50},
+	"frame": {"x":2,"y":1218,"w":221,"h":50},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":221,"h":50},
@@ -418,7 +402,7 @@
 },
 {
 	"filename": "Text-Help/1",
-	"frame": {"x":760,"y":495,"w":199,"h":101},
+	"frame": {"x":509,"y":348,"w":199,"h":101},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":1,"w":199,"h":101},
@@ -434,7 +418,7 @@
 },
 {
 	"filename": "Text-Help/3",
-	"frame": {"x":453,"y":401,"w":304,"h":102},
+	"frame": {"x":453,"y":452,"w":304,"h":102},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":2,"w":304,"h":102},
@@ -442,7 +426,7 @@
 },
 {
 	"filename": "Text-Help/4",
-	"frame": {"x":462,"y":506,"w":293,"h":101},
+	"frame": {"x":462,"y":557,"w":293,"h":101},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":2,"w":293,"h":101},
@@ -466,7 +450,7 @@
 },
 {
 	"filename": "Text-The Kingdom is under attack/Attack",
-	"frame": {"x":185,"y":1232,"w":349,"h":96},
+	"frame": {"x":598,"y":963,"w":349,"h":96},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":1,"w":349,"h":96},
@@ -474,7 +458,7 @@
 },
 {
 	"filename": "Text-The Kingdom is under attack/is",
-	"frame": {"x":908,"y":673,"w":103,"h":95},
+	"frame": {"x":616,"y":1160,"w":103,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":2,"w":103,"h":95},
@@ -482,7 +466,7 @@
 },
 {
 	"filename": "Text-The Kingdom is under attack/kingdom",
-	"frame": {"x":637,"y":1160,"w":379,"h":95},
+	"frame": {"x":461,"y":1062,"w":379,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":2,"w":379,"h":95},
@@ -490,7 +474,7 @@
 },
 {
 	"filename": "Text-The Kingdom is under attack/The",
-	"frame": {"x":735,"y":881,"w":159,"h":95},
+	"frame": {"x":454,"y":1160,"w":159,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":1,"w":159,"h":95},
@@ -533,8 +517,8 @@
 	"version": "1.0",
 	"image": "sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":1018,"h":1333},
+	"size": {"w":1018,"h":1270},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:ae98732697527a6a1adb85a84a9a0c6d:ce411bfb200a95810f054eebb1d0810a:9c44ecd7e9a522007eaff2949095bc1d$"
+	"smartupdate": "$TexturePacker:SmartUpdate:d5b8beed425e5347c494be5a54efadab:215fc9c1f4b88f609008d470a0abf54a:9c44ecd7e9a522007eaff2949095bc1d$"
 }
 }
